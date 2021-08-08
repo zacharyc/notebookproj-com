@@ -22,3 +22,7 @@ body, html {
 h1 {
 	font-family: 'Passion One', sans-serif;
 }
+
+footer {
+	font-size: .8rem;
+}
